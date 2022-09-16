@@ -22,7 +22,7 @@ git clone https://github.com/Lucassocorrosilva7/Projeto-Pomodoro.git
 Entrar na pasta frontend utilizando o comando:
 
 ```
-cd Pomodoro
+cd Projeto-Pomodoro-main
 ```
 
 Instale as dependências com o comando:
