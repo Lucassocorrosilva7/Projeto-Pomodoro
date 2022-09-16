@@ -1,5 +1,7 @@
 # Pomodoro
 
+<img src="https://camo.githubusercontent.com/27e3517cf4c3c96fac9ee3deeef712951524358251467c0141ff50835ed508d6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6265617472697a6d616b6f77736b692f4465736166696f2d43616770656d696e692d32303232"/>
+
 Repositório criado para armazenar o código do projeto Pomodoro.
 
 ## 💬 Sobre o Projeto
@@ -9,7 +11,9 @@ Esse projeto foi inspirado na técnica de Pomodoro onde propôs um método de te
 
 ## 👀 Visualizar
 
-Para mais detalhes da página acesse aqui ➡ [Projeto](https://projeto-pomodoro-three.vercel.app/)
+Detalhes da página acesse abaixo ⬇⬇⬇
+
+<img src="./src/assets/image/Layout.PNG"/>
 
 ## 🛠️ Instalação do Frontend
 
@@ -52,7 +56,7 @@ Para realizar o deploy da minha aplicação, utilizei uma plataforma gratuita de
 
 ## 👤 Autor
 
-### Lucas do Socorro Silva
+### Feito por Lucas Silva. Entre em contato! 👇
 
 <a href="https://lucas-bio.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-6d28d9?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luquinhasssilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
