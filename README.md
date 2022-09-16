@@ -4,25 +4,25 @@ Repositório criado para armazenar o código do projeto Pomodoro.
 
 ## 💬 Sobre o Projeto
 
-Esse projeto foi inspirado na técnica de Pomodoro onde propôs um método de tempo que consiste na utilização de cronómetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos, caso esteja interessado em saber mais sobre a técnica acesse aqui:
+Esse projeto foi inspirado na técnica de Pomodoro onde propôs um método de tempo que consiste na utilização de cronómetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos, caso esteja interessado em saber mais sobre a técnica acesse aqui
 ➡ [Técnica pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro)
 
 ## 👀 Visualizar
 
-Para mais detalhes da página acesse aqui: [Projeto]()
+Para mais detalhes da página acesse aqui ➡ [Projeto](https://projeto-pomodoro-three.vercel.app/)
 
 ## 🛠️ Instalação do Frontend
 
 Clone este repositório usando o comando
 
 ```
-git clone
+git clone https://github.com/Lucassocorrosilva7/Projeto-Pomodoro.git
 ```
 
 Entrar na pasta frontend utilizando o comando:
 
 ```
-cd pomodoro
+cd Pomodoro
 ```
 
 Instale as dependências com o comando:
