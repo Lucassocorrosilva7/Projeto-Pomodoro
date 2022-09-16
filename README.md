@@ -53,7 +53,7 @@ npm start
 
 ## ✅ Deploy
 
-#### Para realizar o deploy da minha aplicação, utilizei uma plataforma gratuita de hospedagem de sites estáticos chamada Vercel
+#### Para realizar o deploy da minha aplicação, utilizei uma plataforma gratuita de hospedagem de sites chamada Vercel
 
 ## 👤 Autor
 
