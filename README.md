@@ -22,7 +22,7 @@ Clone este repositório usando o comando
 git clone https://github.com/Lucassocorrosilva7/Projeto-Pomodoro.git
 ```
 
-Entrar na pasta frontend utilizando o comando:
+Entrar na pasta utilizando o comando:
 
 ```
 cd Projeto-Pomodoro-main
